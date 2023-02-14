@@ -6,7 +6,7 @@ require (
 	github.com/Azure/go-autorest/autorest/adal v0.6.0 // indirect
 	github.com/davecgh/go-spew v1.1.1
 	github.com/go-logr/logr v0.1.0
-	github.com/gogo/protobuf v1.2.1 // indirect
+	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/gophercloud/gophercloud v0.3.0 // indirect
 	github.com/imdario/mergo v0.3.7 // indirect
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
@@ -19,7 +19,7 @@ require (
 	github.com/sergi/go-diff v1.0.0
 	github.com/spf13/cobra v0.0.3
 	github.com/spf13/pflag v1.0.3
-	golang.org/x/net v0.0.0-20190125091013-d26f9f9a57f3
+	golang.org/x/net v0.0.0-20201021035429-f5854403a974
 	golang.org/x/time v0.0.0-20190308202827-9d24e82272b4
 	k8s.io/api v0.0.0-20190409021203-6e4e0e4f393b
 	k8s.io/apiextensions-apiserver v0.0.0-20190409022649-727a075fdec8
